@@ -1,0 +1,233 @@
+#title {
+    background-color: #00b7a8;
+    color: #fff;
+    padding-bottom: 36px;
+}
+
+
+
+h1 {
+    font-family: 'Nanum Gothic', sans-serif;
+    letter-spacing: .1em;
+    size: 3.5rem;
+    line-height: 1.5;
+    color: #fff;
+    padding-bottom: 20px;
+}
+h4 {
+    font-family: 'Nanum Gothic', sans-serif;
+    letter-spacing: .1em;
+    size: 3.5rem;
+    line-height: 1.5;
+    color: #f4f4f4;
+    padding-bottom: 20px;
+}
+h2 {
+    font-family: 'Nanum Gothic', sans-serif;
+    color: #fff;
+
+}
+h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    letter-spacing: .1em;
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #1b262c;
+}
+
+p {
+    font-weight: lighter;
+    color: grey;
+}
+.container-fluid {
+    padding: 1% 15%;
+}
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+/*****Navbar*****/
+
+.frost-name {
+    width: 45%;
+}
+.navbar{
+    padding: 0 0 2.8rem;
+}
+.navbar-brand {
+    font-size: 2.5rem;
+
+    font-weight: bold;
+}
+.nav-item {
+padding: 0 1rem;
+}
+.nav-link {
+font-size: 1.3rem;
+}
+/****button****/
+.download-button {
+margin: 5% 5% 5% 0;
+}
+/****title image****/
+.title-image {
+    width: 120%;
+ 
+}
+/*****Features*****/
+#features {
+    padding: 6% 17%;
+    background-color: #f0eec8;
+}
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+.cicon {
+    color: #23374d;
+}
+.icon {
+    color: #096386;
+    padding-bottom: 8px;
+}
+.icon:hover {
+    color: #fbd46d;
+}
+/*****testimonials*****/
+#testimonials {
+   
+    background-color: #f0eec8;
+    text-align: center;
+}
+.comment-image {
+    width: 5%;
+    border-radius: 100%;
+}
+.name {
+    color: #23374d;
+}
+
+.carousel-item {
+    padding: 6% 17%;
+}
+.testimonial-text {
+    color: #23374d;
+}
+
+/*******Press********/
+#press {
+    background-color: #f0eec8;
+    padding-bottom: 3%;
+    text-align: center;
+}
+.busi-logo {
+    width: 7%;
+    text-align: center;
+}
+.busi-logoh {
+    width: 11%;
+    
+}
+
+/******pricing********/
+#pricing {
+    background-color: #00b7a8;
+    padding: 5% 17%;
+    text-align: center;
+}
+.p-para {
+    color: #23374d;
+    padding-bottom: 10px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.price-header {
+    font-family: 'EB Garamond', serif;
+    letter-spacing: .2em;
+    padding-bottom: 40px;
+}
+.price {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #50d890;
+}
+.info {
+    color: #1b262c;
+}
+.price-card {
+    padding: 3% 2%;
+}
+/*****Call to action****/
+#cta {
+    padding: 5% 15%;
+background-color: #f0eec8;
+text-align: center;
+}
+.h3last {
+    color: #23374d;
+    padding-bottom: 6%;
+    font-size: 2.9rem;
+    line-height: 2.6rem;
+}
+/*****footer*******/
+#footer {
+background-color: #00b7a8;
+text-align: center;
+padding: 1% 5%;
+}
+.copy {
+    color: #fff;
+}
+.btnem {
+    margin: 0px 5px;
+}
+.enve {
+    margin: 0 5px 10px;
+    color: #fff;
+}
+.insta {
+    margin: 0 5px 10px;
+    color: #fff;
+}
+.insta:hover {
+    color: #fbd46d;
+}
+.enve:hover {
+    color: #fbd46d;
+}
+/***mobile response***/
+@media (max-width: 1028px) {
+    #title {
+        text-align: center;
+    }
+    .navbar-toggler {
+        position: relative;
+        left: 168px;
+        text-align: center;
+    }
+    .title-image {
+        position: relative;
+        right: 50px;
+    }
+}
+
+/***service***/
+#service {
+    background-color: #00b7a8;
+    text-align: center;
+    padding: 3% 15%;
+}
+
+.aboutp {
+    color: #f1f1e8;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+.dot {
+    border-style: none;
+    border-top: 1px dotted white;
+    border-width: 5px;
+    width: 6%;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.lap {
+    text-align: center;
+}
