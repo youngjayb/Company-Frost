@@ -197,9 +197,9 @@ padding: 1% 5%;
     #title {
         text-align: center;
     }
-    .navbar-toggler {
+    .navbar-toggler-icon {
         position: relative;
-        left: 168px;
+
         text-align: center;
     }
     .title-image {
