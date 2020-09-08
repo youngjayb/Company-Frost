@@ -70,6 +70,7 @@ margin: 5% 5% 5% 0;
 }
 /****title image****/
 .title-image {
+    text-align: center;
     width: 120%;
  
 }
@@ -204,7 +205,7 @@ padding: 1% 5%;
     }
     .title-image {
         position: relative;
-        
+        right: 38px;
     }
 }
 
